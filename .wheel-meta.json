@@ -1,0 +1,22 @@
+{
+  "wheel_id": 458,
+  "structure": "umbrella",
+  "slug": "retainingwallgeelong-103",
+  "project": "retaining-wall-contractors-geelong-timeline-d1006e0d4455fef1d51",
+  "parent_t1_ref": "retainingwallgeelong-151",
+  "node_role": "feeder",
+  "money_target": "retainingwallgeelong.au",
+  "primary_kw": "retaining wall contractors geelong timeline",
+  "intended_url": "https://aumedia.neocities.org/retaining-wall-contractors-geelong-timeline-d1006e0d4455fef1d51/",
+  "tier": "T2",
+  "writeback_nonce": "d329650111cc0e7d",
+  "links": [
+    {
+      "target_url": "http://retaining-wall-contractors-geelong-7c10499d4410334e606e214dcca2.s3-website-ap-southeast-2.amazonaws.com/index.html",
+      "anchor": "Retaining Wall Contractors Geelong: Site Scope Guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "topical"
+    }
+  ]
+}
